@@ -1,6 +1,6 @@
 # Introducere în invățarea automată
 
-## Învățarea supravegheată și nesupravegheată în Python
+## Învățarea supravegheată și nesupravegheată în Python
 
 Dacă sunteți curioși, parcurgeți această lucrare pentru a afla mai multe detalii despre cum putem crea solutii informatice folosind tehnici de invatare automata. Lucrarea de față a fost realizată ca suport de curs pentru un curs introductiv în învățarea automată pentru studenții din anul doi sau trei ce urmează un profil tehnic. 
 
